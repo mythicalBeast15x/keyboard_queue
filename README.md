@@ -4,3 +4,4 @@ This only works on Windows
 To use, download AutoHotKey, so that the ahk scripts can run
 download the ahk scripts and the python script
 Then run the copy and paste scripts
+*make sure that the python script is in the AppData\Roaming folder*
